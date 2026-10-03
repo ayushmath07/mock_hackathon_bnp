@@ -1,0 +1,20 @@
+[
+  {
+    "id": "priya_freelancer",
+    "name": "Priya Sharma",
+    "title": "Freelance UI/UX Designer",
+    "category": "Thin-File Gig Worker",
+    "description": "24 years old. Zero formal credit history, but consistent freelance income and on-time utility payments.",
+    "stated_monthly_income": 50000.0,
+    "avatar_url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "ramesh_kirana",
+    "name": "Ramesh Gupta",
+    "title": "Retail Grocery Store Owner",
+    "category": "MSME / Micro-Merchant",
+    "description": "38 years old. High-volume daily UPI receipts and inventory disbursements, zero traditional collateral.",
+    "stated_monthly_income": 95000.0,
+    "avatar_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80"
+  }
+]
